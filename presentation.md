@@ -3,7 +3,7 @@ layout: default
 title: Presentation
 ---
 
-## Presenation of this edition 
+## Presentation of this edition 
 
-Here is the presentation of your project. Feel free to write what you want. 
+This is my first attempt with a DSE GitHub page.
 
