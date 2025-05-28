@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Presentation
+title: This Edition
 ---
 
-## Presentation of this edition 
+## Ecdotic principles of this edition 
 
 This is my first attempt with GitHub Pages.
 
