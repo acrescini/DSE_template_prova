@@ -5,5 +5,5 @@ title: Documentation
 
 ## Documentation of this edition 
 
-This is my first attempt with a DSE GitHub page.
+Element for the Tei Header: '<teiHeader>'
 
