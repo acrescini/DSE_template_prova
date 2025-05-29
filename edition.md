@@ -8,6 +8,6 @@ title: This Edition
 This is my first attempt with GitHub Pages.
 
 
-This is the link to The Selfish Giant: (https://acrescini.github.io/)
+[This is the link to The Selfish Giant](https://acrescini.github.io/)
 
 
